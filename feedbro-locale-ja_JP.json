@@ -7,7 +7,7 @@
         "locale_last_updated": "2019-11-11 12:00:00 UTC",
         "locale_author_name": "qtfdqh7",
         "locale_author_email": "qtfdqh7@outlook.com",
-        "locale_source_url": ""
+        "locale_source_url": "https://raw.githubusercontent.com/qtfdqh7/feedbro-locale/master/feedbro-locale-ja_JP.json"
     },
     "addfeed_url_body": "フィードのURL",
     "addfeed_load_body": "読込",
@@ -351,7 +351,7 @@
     "options_skipopmldupes_input_title": "OPMLファイルのインポート時に既に存在するフィードとフォルダをスキップするようにします。",
     "options_truncatetitles_body": "長いタイトルを切り捨てる（モード2）",
     "options_truncatetitles_input_title": "モード2で長いタイトルを切り捨てるようにします。",
-    "options_goback_title": "クリックしてフィードリーダーに戻ります",
+    "options_goback_title": "クリックしてフィードリーダーに戻ります。",
     "options_error_bookmarks_noselection": "ブックマークファイルが選択されていません。",
     "options_error_bookmarks_invalidfile": "ファイル「{1}」はブックマークファイルではありません。",
     "options_error_invalidopml": "インポートに失敗しました。ファイル「{1}」は有効なOPMLファイルではありません。",
