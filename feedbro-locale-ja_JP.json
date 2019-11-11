@@ -212,7 +212,7 @@
     "navigator_ctxmenu_rename": "名前の変更",
     "navigator_ctxmenu_sortfeeds": "フォルダ内のフィードを並べ替え",
     "navigator_ctxmenu_delete": "削除",
-    "navigator_ctxmenu_updatefeed": "更新",
+    "navigator_ctxmenu_updatefeed": "最新の情報に更新",
     "navigator_ctxmenu_properties": "プロパティ",
     "navigator_ctxmenu_updatefolder": "フォルダ内のフィードを更新",
     "navigator_ctxmenu_updatefeed_success": "フィードを更新しています。",
