@@ -1,10 +1,10 @@
 {
     "meta": {
         "manifest_version": 1,
-        "locale_version": "1.0",
+        "locale_version": "1.9",
         "locale_name": "日本語",
         "locale_type": "ja_JP",
-        "locale_last_updated": "2019-11-11 12:00:00 UTC",
+        "locale_last_updated": "2019-12-07",
         "locale_author_name": "qtfdqh7",
         "locale_author_email": "qtfdqh7@outlook.com",
         "locale_source_url": "https://raw.githubusercontent.com/qtfdqh7/feedbro-locale-ja_JP/master/feedbro-locale-ja_JP.json"
@@ -55,7 +55,7 @@
     "article_action_delete_title": "この項目を完全に削除します。(D)",
     "article_action_delete_body": "削除",
     "article_fromline_from": "",
-    "article_fromline_by": ",",
+    "article_fromline_by": "-",
     "article_fromline_clicktoload": "このフィードから項目を読み込みます。",
     "article_header_clicktip": "元記事を新しいタブで開きます。記事領域部分をクリックすると展開します。",
     "article_header_pointstip": "ルールによってこの項目に加算された合計点数",
