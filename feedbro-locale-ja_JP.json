@@ -1,7 +1,7 @@
 {
     "meta": {
         "manifest_version": 1,
-        "locale_version": "1.6",
+        "locale_version": "1.07",
         "locale_name": "日本語",
         "locale_type": "ja_JP",
         "locale_last_updated": "2019-12-07",
@@ -72,7 +72,7 @@
     "bookmarks_selectbookmarks_body": "以下の一覧からブックマーク（有効なRSS・ATOM・RDFのURL）にチェックを入れます。",
     "bookmarks_import_body": "チェックしたブックマークをFeedbroにインポートする",
     "bookmarks_saveopml_body": "チェックしたブックマークをOPMLファイルとして保存する",
-    "bookmarks_or": "&nbsp;",
+    "bookmarks_or": " ",
     "bottomlink_feedback_body": "フィードバック",
     "bottomlink_bugreports_body": "バグの報告",
     "bottomlink_knownissues_body": "既知の問題",
