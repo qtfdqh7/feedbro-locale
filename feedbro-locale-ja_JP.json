@@ -154,7 +154,7 @@
     "itemage_1y_body": "1年以内",
     "itemage_unlimited_body": "期間指定無し",
     "loadstatus_0": "Not scanned yet",
-    "loadstatus_200": ""<div style=”color:green;”>"OK"</div>"",
+    "loadstatus_200": ""&#60;div style=&quot;color:green;&quot;&#62;"OK"&#60;/div&#62;"",
     "loadstatus_398": "No network",
     "loadstatus_399": "Connection timeout",
     "loadstatus_401": "Authorization required",
