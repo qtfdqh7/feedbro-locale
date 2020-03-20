@@ -1,6 +1,6 @@
 {
     "meta": {
-        "manifest_version": 1,
+        "manifest_version": 2,
         "locale_version": "4.0.3.2",
         "locale_name": "日本語",
         "locale_type": "ja_JP",
