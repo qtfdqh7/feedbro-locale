@@ -1,10 +1,10 @@
 {
     "meta": {
         "manifest_version": 2,
-        "locale_version": "4.0.3.2",
+        "locale_version": "4.0.3.3",
         "locale_name": "日本語",
         "locale_type": "ja_JP",
-        "locale_last_updated": "2020-03-20",
+        "locale_last_updated": "2020-03-29",
         "locale_author_name": "qtfdqh7",
         "locale_author_email": "qtfdqh7@outlook.com",
         "locale_source_url": "https://raw.githubusercontent.com/qtfdqh7/feedbro-locale-ja_JP/master/feedbro-locale-ja_JP.json"
@@ -235,7 +235,7 @@
     "options_settings_body": "設定",
     "options_theme_body": "テーマ",
     "options_theme_select_title": "FeedbroのUIテーマを指定します。",
-    "options_locale_body": "UIの言語",
+    "options_locale_body": "UI言語",
     "options_action_import_locale_body": "インポート",
     "options_locale_url": "Feedbro言語ファイル（JSON形式）のURLを入力してください。",
     "options_action_locale_failed": "言語ファイルのインポートに失敗しました。Error: {1}",
@@ -333,7 +333,7 @@
     "options_sound_body": "効果音",
     "options_sound_input_title": "効果音を有効にします。",
     "options_sound_hint_body": "※効果音を再生するルールを作成する必要があります。",
-    "options_notifications_body": "通知",
+    "options_notifications_body": "デスクトップ通知",
     "options_notifications_input_title": "デスクトップ通知を有効にします。",
     "options_notifications_hint_body": "※通知を表示するルールを作成する必要があります。",
     "options_favicons_navigator_body": "フィード一覧にFaviconを表示する",
