@@ -1,10 +1,10 @@
 {
     "meta": {
         "manifest_version": 2,
-        "locale_version": "4.0.3.4",
+        "locale_version": "4.0.3.3",
         "locale_name": "日本語",
         "locale_type": "ja_JP",
-        "locale_last_updated": "2020-04-03",
+        "locale_last_updated": "2020-03-29",
         "locale_author_name": "qtfdqh7",
         "locale_author_email": "qtfdqh7@outlook.com",
         "locale_source_url": "https://raw.githubusercontent.com/qtfdqh7/feedbro-locale-ja_JP/master/feedbro-locale-ja_JP.json"
@@ -370,7 +370,7 @@
     "ruleform_name_body": "名前",
     "ruleform_enabled_body": "このルールを有効にする",
     "ruleform_enabled_input_title": "チェックされていない場合、このルールは実行されません。",
-    "ruleform_fallthrough_body": "他ルールの評価",
+    "ruleform_fallthrough_body": "他のルールも評価する",
     "ruleform_fallthrough_input_title": "有効にすると、このルールが一致する場合でも他のルールも評価されます（パフォーマンスの低下）。チェックされていないかつこのルールが一致する場合、他のルールは評価されません（パフォーマンスの向上）。",
     "ruleform_when_body": "開始条件",
     "ruleform_trigger_new_body": "フィードが更新された時",
