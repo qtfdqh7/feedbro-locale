@@ -1,10 +1,10 @@
 {
     "meta": {
         "manifest_version": 2,
-        "locale_version": "4.0.3.3",
+        "locale_version": "4.0.3.4",
         "locale_name": "日本語",
         "locale_type": "ja_JP",
-        "locale_last_updated": "2020-03-29",
+        "locale_last_updated": "2020-04-05",
         "locale_author_name": "qtfdqh7",
         "locale_author_email": "qtfdqh7@outlook.com",
         "locale_source_url": "https://raw.githubusercontent.com/qtfdqh7/feedbro-locale-ja_JP/master/feedbro-locale-ja_JP.json"
@@ -155,7 +155,7 @@
     "itemage_unlimited_body": "期間指定無し",
     "loadstatus_0": "不明",
     "loadstatus_200": "正常",
-    "loadstatus_398": "オフライン",
+    "loadstatus_398": "未接続",
     "loadstatus_399": "接続切れ",
     "loadstatus_401": "401 Unauthorized",
     "loadstatus_403": "403 Forbidden",
