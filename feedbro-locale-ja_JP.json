@@ -1,7 +1,7 @@
 {
     "meta": {
         "manifest_version": 2,
-        "locale_version": "4.9.9.1",
+        "locale_version": "4.9.9.2",
         "locale_name": "日本語",
         "locale_type": "ja_JP",
         "locale_last_updated": "2021-04-26",
@@ -191,7 +191,7 @@
     "mainmenu_favorite": "お気に入りに追加します。",
     "mainmenu_delete": "この項目を削除します。",
     "mainmenu_liveclick_nounread": "未読記事はありません。",
-    "mainmenu_liveclick_authorprefix": " - ",
+    "mainmenu_liveclick_authorprefix": "",
     "mainmenu_allitems_body": "全ての項目",
     "mainmenu_starreditems_body": "お気に入り",
     "mainmenu_rules_body": "ルール",
